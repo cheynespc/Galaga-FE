@@ -1,4 +1,4 @@
-# 🥞 Pancake Frontend
+# GalagaToken Frontend
 
 This project contains the main features of the Galaga token application.
 
