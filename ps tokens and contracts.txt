@@ -1,0 +1,50 @@
+galgadextestnet
+
+TESTNET 
+
+factory1: 0xcca5c604ec68092cb239fe0049836cfe75c605ed
+
+1UP Token: 0x884976087bf89221d3a82ce7b9fd6174a3bcb572
+factory2  0x6512D8f04a5B697620f650A012619d4e1EB5a569
+v2router2: 0x2aF2721e144CE3bC37B0fB0bD0Be04662c5A6e12
+syrupbar: 0xE5a3CD8C441261B57E1DBCFEbfd7622F28ae338F
+masterchef: 0x148aC8d8511D3dA46Bd104b95561A659c70e2EF8
+timelock: 0x70fe1202B2Eb17Be8058aB518e80830E9FB57AEB
+
+inithash: 
+
+
+
+
+devwallet: 0x3f39B8d07f4568bf2A653494a3584069d0f68227
+mainwallet: 0x18Ff7f454B6A3233113f51030384F49054DD27BF
+
+Glg: 0x5448d9fc695b5f1e244c374cf4b398770d788f96
+
+mainnet::
+emmision 0.05 per/block
+1UP 0x0fec44e5f0e7653f04d5b22bebb18fcfde38af75
+factoryv2: 0x8CB92334FbF7AF6cb8AD8286ba1104BefFDFD1b8
+routerv2: 0xe3e79E81f5D0A46FD282D0E4b5455B46a8a8cB6B
+Rocketfuel: 0xD5C3A39462AA93b3aFc4cf491E03Ac45829Fc6EA
+masterchef: 0x60e00655B8555330B7B5B394f828C610E9573c8F
+timelock: 0xa9558dDa53E717a97013f2de302E7C71F5271de7
+
+
+
+  {
+    "name": "Galaga Token",
+    "symbol": "GLG",
+    "address": "0x5448d9fc695b5f1e244c374cf4b398770d788f96",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://static.wixstatic.com/media/b6673d_c1601ad29d064dd195cb94efd8457ebe~mv2.png"
+  },
+  {
+    "name": "GalagaDEX 1UPs",
+    "symbol": "1UP",
+    "address": "0x0fec44e5f0e7653f04d5b22bebb18fcfde38af75",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://static.wixstatic.com/media/b6673d_f7a44bcc999e4970b2240a679c674f8a~mv2.png"
+  }
